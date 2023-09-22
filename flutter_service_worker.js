@@ -8,8 +8,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "6393f0960198ccf450963bc2b84d58fd
 "assets/assets/icons/logo.png": "94155364600c815b080d790c4a9c7e74",
 "assets/assets/images/error.png": "34a3c86257800bf5e90595c112370b19",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "53f6e414b114a90fb656f1dd1daa1bed",
-"assets/NOTICES": "30e4e2944756bf9dc3485baf753d38db",
+"assets/fonts/MaterialIcons-Regular.otf": "e8286fdc20fa3e164ff0c419ac0ae5c5",
+"assets/NOTICES": "09b0375323412263a0d7e4fcddbd5051",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/facebook_new.png": "83bf0093719b2db2b16e2839aee1069f",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/google_dark.png": "937022ea241c167c8ce463d2ef7ed105",
@@ -37,9 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6393f0960198ccf450963bc2b84d58fd
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7b9636e2539b7549169c7add0fd262a1",
-"/": "7b9636e2539b7549169c7add0fd262a1",
-"main.dart.js": "4ed8b9963c1dd48296f28945e839405e",
+"index.html": "a5f8ac2de0689ba48c8948f43eb046a4",
+"/": "a5f8ac2de0689ba48c8948f43eb046a4",
+"main.dart.js": "8825729ab8944cb189a3396e0d7e1365",
 "manifest.json": "45c91b21e2365c7b946e7a6672b68913",
 "version.json": "f4c3bda6f2274b0b475a875ca21dab19"};
 // The application shell files that are downloaded before a service worker can
